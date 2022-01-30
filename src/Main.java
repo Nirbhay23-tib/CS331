@@ -14,6 +14,7 @@ public class Main
 	  System.out.println(sum(6))  ;
 	  System.out.println(sum(5));
 	  System.out.println(sum(28));
+		System.out.println(sum(100));
 	}
 	
 	
